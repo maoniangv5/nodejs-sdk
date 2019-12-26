@@ -4,7 +4,7 @@ const conf = require('./conf');
 
 //huadong
 exports.Zone_z0 = new conf.Zone([
-    'p.wonderscloud.com/nodefastdfs/openapi/files/upload/',
+    'tfsmy.chengdu.gov.cn/nodefastdfs/openapi/files/upload/',
     'up-nb.qiniup.com',
     'up-xs.qiniup.com',
 ], [
