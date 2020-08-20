@@ -4,7 +4,7 @@ const conf = require('./conf');
 
 //huadong
 exports.Zone_z0 = new conf.Zone([
-    '183.194.243.82/nodefastdfs/openapi/files/upload/',
+    '172.26.176.16:3007/nodefastdfs/openapi/files/upload/',
     'up-nb.qiniup.com',
     'up-xs.qiniup.com',
 ], [
